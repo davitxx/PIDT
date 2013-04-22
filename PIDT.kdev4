@@ -1,0 +1,4 @@
+[Project]
+Name=PIDT
+Manager=KDevCMakeManager
+VersionControl=kdevgit
